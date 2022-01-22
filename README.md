@@ -1,6 +1,6 @@
 # Туториал для korbal_world карты TF2
 ## Для начала вам нужно скачать контент
-1. Скачивайте [файл](https://github.com/Ardub92/korbal_world/raw/main/content_for_test/korbal_world_test_02.vpk)
+1. Скачивайте [файл](https://github.com/Ardub92/korbal_world/raw/main/content_for_test/korbal_world_test_03.vpk)
 2. Заходим в библиотеку Steam
 3. Кликаем правой кнопкой мыши по игре и выбираем `Cвойства`
 4. Дальше нажимаем `Локальные файлы/Обзор...`
